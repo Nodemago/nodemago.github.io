@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["726MQZ28LM.com.taximjapan.nodemago"],
+        "components": [
+          { "/": "/nodemago/*", "?": { "owner": "?*" }, "comment": "R23 invite links only" }
+        ]
+      }
+    ]
+  }
+}
